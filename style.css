@@ -14,9 +14,9 @@
 .card{
     /* display: flex; */
     align-items: center;
-    width: 100%;
-    max-width: 540px;
-    min-width: 420px;
+    
+    width: 540px;
+    /* min-width: 420px; */
     background-color: #FFF;
     border-radius: 10px;
     padding: 20px;
