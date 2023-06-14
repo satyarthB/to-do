@@ -118,3 +118,13 @@ ul li span:hover{
     background-color: #EEEEEE;
     
 }
+@media (max-width: 414px){
+    .card{
+        width: 300px;
+        
+    }
+    .container{
+        height: 100vh;
+        background-repeat: repeat;
+    }
+}
